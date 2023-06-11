@@ -47,7 +47,6 @@ for i in range(n):
 ```
 
 ## Output:
-![gaussian elimination]()
 ![image](https://github.com/Sanjay-sg/Gaussian/assets/119559022/d39ade9a-1ea4-4b51-9093-615206874d79)
 
 
